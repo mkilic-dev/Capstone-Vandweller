@@ -1,0 +1,374 @@
+{
+  "nhits": 191,
+  "parameters": {
+    "dataset": "drinking-fountains",
+    "timezone": "UTC",
+    "rows": 10,
+    "format": "json",
+    "facet": [
+      "in_operation",
+      "pet_friendly",
+      "geo_local_area"
+    ]
+  },
+  "records": [
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "5a98376d4a8a10279c61b6c6d880488704e47959",
+      "fields": {
+        "photo_name": "Aberdeen Park - drinking fountain - 2005.JPG",
+        "name": "Fountain location:\nAberdeen Park",
+        "mapid": "DFPB0001",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.02723857691211,
+            49.235052244781684
+          ]
+        },
+        "location": "plaza",
+        "maintainer": "Parks",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Renfrew-Collingwood"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "3f2f80874a6d8b9aa3d5c86a2ece697a7ceb25b5",
+      "fields": {
+        "maintainer": "Parks",
+        "name": "Fountain location:\nAdanac Park",
+        "mapid": "DFPB0002",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.0241254441794,
+            49.2759641005714
+          ]
+        },
+        "location": "SW side of Field house",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Hastings-Sunrise"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "a03e902340fd0a4c904c37db0784f297702e7fd3",
+      "fields": {
+        "photo_name": "Alexandra Park - drinking fountain - 2003.jpg",
+        "name": "Fountain location:\nAlexandra Park",
+        "mapid": "DFPB0003",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.14237717569813,
+            49.28566025871612
+          ]
+        },
+        "location": "west plaza gateway",
+        "maintainer": "Parks",
+        "in_operation": "spring to fall",
+        "geo_local_area": "West End"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "0884a4d11c5d5515757b65de72b012f9ef0092f5",
+      "fields": {
+        "maintainer": "Parks",
+        "name": "Fountain location:\nAndy Livingstone Park - North of basketball court",
+        "mapid": "DFPB0005",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.10617896100499,
+            49.27891713026405
+          ]
+        },
+        "location": "by amphitheatre steps near bas",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Downtown"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "799d5b7ab05f860e602e38f2ff614515b7a8adcf",
+      "fields": {
+        "maintainer": "Parks",
+        "name": "Fountain location:\nAndy Livingstone Park - South of soccer fields",
+        "mapid": "DFPB0006",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.10355994686793,
+            49.27805711332226
+          ]
+        },
+        "location": "north side of fieldhouse",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Downtown"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "8d082e5d12416254c4b0a3d80271eeb9d8ee54fd",
+      "fields": {
+        "maintainer": "Parks",
+        "name": "Fountain location:\nBrewers Park",
+        "mapid": "DFPB0132",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.06621079065098,
+            49.24755549015022
+          ]
+        },
+        "location": "S-side of wading pool",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Kensington-Cedar Cottage"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "0c023fd888974eaee8b414cff665dd8506115d12",
+      "fields": {
+        "photo_name": "Connaught Park - drinking fountain - 2005.JPG",
+        "name": "Fountain location:\nConnaught Park - East side of fieldhouse",
+        "mapid": "DFPB0027",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.15932134359271,
+            49.26297477699925
+          ]
+        },
+        "location": "near fieldhouse",
+        "maintainer": "Parks",
+        "in_operation": "year-round",
+        "geo_local_area": "Kitsilano"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "857a395f657446981d9de4c6a2fc1f4297ec6d81",
+      "fields": {
+        "maintainer": "Parks",
+        "mapid": "DFPB0026",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.16141535959855,
+            49.26187335311721
+          ]
+        },
+        "name": "Fountain location:\nConnaught Park - North of playground",
+        "geo_local_area": "Kitsilano"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "48de17680efeeb4f2eb4450841c41bdb48a93c1e",
+      "fields": {
+        "photo_name": "Douglas Park - drinking fountain 1 - 2005.JPG",
+        "name": "Fountain location:\nDouglas Park - Right side of wading pool",
+        "mapid": "DFPB0035",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.12230213245175,
+            49.25319458591402
+          ]
+        },
+        "location": "in front of wading pool",
+        "maintainer": "Parks",
+        "in_operation": "spring to fall",
+        "geo_local_area": "South Cambie"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    },
+    {
+      "datasetid": "drinking-fountains",
+      "recordid": "51ef1a4a2a61f1458b8aaf9fce3a38a17cf3303f",
+      "fields": {
+        "maintainer": "Parks",
+        "name": "Fountain location:\nElm Park",
+        "mapid": "DFPB0038",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -123.16338644585873,
+            49.23358916196612
+          ]
+        },
+        "location": "N-side of field house",
+        "in_operation": "spring to fall",
+        "geo_local_area": "Kerrisdale"
+      },
+      "record_timestamp": "2020-02-24T11:30:42.139000+00:00"
+    }
+  ],
+  "facet_groups": [
+    {
+      "facets": [
+        {
+          "count": 146,
+          "path": "spring to fall",
+          "state": "displayed",
+          "name": "spring to fall"
+        },
+        {
+          "count": 10,
+          "path": "year-round",
+          "state": "displayed",
+          "name": "year-round"
+        }
+      ],
+      "name": "in_operation"
+    },
+    {
+      "facets": [
+        {
+          "count": 20,
+          "path": "Hastings-Sunrise",
+          "state": "displayed",
+          "name": "Hastings-Sunrise"
+        },
+        {
+          "count": 18,
+          "path": "Downtown",
+          "state": "displayed",
+          "name": "Downtown"
+        },
+        {
+          "count": 11,
+          "path": "Kerrisdale",
+          "state": "displayed",
+          "name": "Kerrisdale"
+        },
+        {
+          "count": 11,
+          "path": "Mount Pleasant",
+          "state": "displayed",
+          "name": "Mount Pleasant"
+        },
+        {
+          "count": 11,
+          "path": "Renfrew-Collingwood",
+          "state": "displayed",
+          "name": "Renfrew-Collingwood"
+        },
+        {
+          "count": 10,
+          "path": "Kitsilano",
+          "state": "displayed",
+          "name": "Kitsilano"
+        },
+        {
+          "count": 9,
+          "path": "Sunset",
+          "state": "displayed",
+          "name": "Sunset"
+        },
+        {
+          "count": 9,
+          "path": "West End",
+          "state": "displayed",
+          "name": "West End"
+        },
+        {
+          "count": 8,
+          "path": "Grandview-Woodland",
+          "state": "displayed",
+          "name": "Grandview-Woodland"
+        },
+        {
+          "count": 8,
+          "path": "Killarney",
+          "state": "displayed",
+          "name": "Killarney"
+        },
+        {
+          "count": 7,
+          "path": "Kensington-Cedar Cottage",
+          "state": "displayed",
+          "name": "Kensington-Cedar Cottage"
+        },
+        {
+          "count": 7,
+          "path": "Marpole",
+          "state": "displayed",
+          "name": "Marpole"
+        },
+        {
+          "count": 6,
+          "path": "Riley Park",
+          "state": "displayed",
+          "name": "Riley Park"
+        },
+        {
+          "count": 5,
+          "path": "Oakridge",
+          "state": "displayed",
+          "name": "Oakridge"
+        },
+        {
+          "count": 5,
+          "path": "Strathcona",
+          "state": "displayed",
+          "name": "Strathcona"
+        },
+        {
+          "count": 5,
+          "path": "West Point Grey",
+          "state": "displayed",
+          "name": "West Point Grey"
+        },
+        {
+          "count": 4,
+          "path": "Arbutus-Ridge",
+          "state": "displayed",
+          "name": "Arbutus-Ridge"
+        },
+        {
+          "count": 3,
+          "path": "Dunbar-Southlands",
+          "state": "displayed",
+          "name": "Dunbar-Southlands"
+        },
+        {
+          "count": 3,
+          "path": "Fairview",
+          "state": "displayed",
+          "name": "Fairview"
+        },
+        {
+          "count": 3,
+          "path": "Victoria-Fraserview",
+          "state": "displayed",
+          "name": "Victoria-Fraserview"
+        },
+        {
+          "count": 2,
+          "path": "Shaughnessy",
+          "state": "displayed",
+          "name": "Shaughnessy"
+        },
+        {
+          "count": 2,
+          "path": "South Cambie",
+          "state": "displayed",
+          "name": "South Cambie"
+        }
+      ],
+      "name": "geo_local_area"
+    }
+  ]
+}

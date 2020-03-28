@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.book-form {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.book-form input,
+.book-form textarea,
+.book-form button {
+  padding: 1rem;
+}
+.book-form button {
+  background: skyblue;
+  font-weight: bold;
+  box-shadow: unset;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.book-list__item {
+  width: 25%;
+  border: 1px solid lightgrey;
+}

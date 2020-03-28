@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1af0jruup5gu",
+    "title": "JavaScript: The Good Parts",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81kqrwS1nNL.jpg",
+    "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+    "comments": [
+      {
+        "name": "encephalical",
+        "comment": "I'd been meaning to read this for years and finally picked up a copy in late 2019, 11 years after it came out. I'd picked up some JavaScript here and there and have been using JSON since it exploded "
+      },
+      {
+        "name": "Tobias.Bruell",
+        "comment": "Very concise and on-point description of the core Javascript language. At times I found it a bit too terse though and had to use the Internet for help."
+      }
+    ]
+  },
+  {
+    "id": "1aivjruutn6a",
+    "title": "Eloquent JavaScript",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51-5ZXYtcML.jpg",
+    "description": "JavaScript is at the heart of almost every modern Web application, whether it's Google Apps, Twitter, or the newest browser-based game. Though it's simple for beginners to pick up and play with, JavaScript is not a toy—it's a flexible and complex language that can be used to build full-scale applications.",
+    "comments": [
+      {
+        "name": "questbird",
+        "comment": "An excellent introduction to Javascript in particular and programming in general. It has a very clear style which introduces sometimes esoteric javascript features with no nonsense"
+      }
+    ]
+  },
+  {
+    "id": "93e7856b-f363-4f70-8f69-cd9a508bac7c",
+    "title": "React.js for the Visual Learner",
+    "description": "The book teaches the absolute basics of React.js to an absolute beginner through design principles, visual-friendly examples, and a super practical teaching methodology. My writing style always includes stories and personal experiences.",
+    "imageUrl": "https://miro.medium.com/proxy/1*OOG6UWSyRC5LAdJTpcfhnw.png",
+    "comments": []
+  }
+]
